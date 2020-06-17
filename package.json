@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.18.1",
     "discord.js": "^11.5.1",
     "jimp": "^0.13.0"
   }
