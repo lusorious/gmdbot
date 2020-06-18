@@ -114,6 +114,10 @@ const mapping = {
         "files": ["DoesThisDoAnything.mp4"],
         "desc": "This do anything?"
     },
+    "dontcare": {
+        "files": ["dontcare.webm"],
+        "desc": "Negan don't care?"
+    },
     "doubt": {
         "files": ["doubt.png"],
         "desc": "(X) Doubt"
