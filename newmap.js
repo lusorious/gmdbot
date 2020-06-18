@@ -298,7 +298,9 @@ const mapping = {
         "files": [
             "removed.mp4"], "desc":
             "Banned from Reddit"
-    },
+    },"idk": {
+        "files": ["idk.jpg"],
+        "desc": "Tom shrugging"
     "riley": {
         "files": ["riley.jpg"],
         "desc": "Riley"
@@ -306,6 +308,10 @@ const mapping = {
     "rr" : {
         "command": "rr",
         "desc": "Russian Roulette"
+    },
+    "retard": {
+        "files": ["retard.jpg"],
+        "desc": "Square into ircle"
     },
     "salute": {
         "files": ["salute.gif"],
