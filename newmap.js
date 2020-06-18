@@ -427,6 +427,10 @@ const mapping = {
     "yikes": {
         "files": ["yikes.png", "yikes2.png"],
         "desc": "Trump total yikes moment"
+    },
+    "idk": {
+        "files": ["idk.jpg"],
+        "desc": "Tom shrugging"
     }
 }
 
