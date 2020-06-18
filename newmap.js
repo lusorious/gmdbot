@@ -298,9 +298,11 @@ const mapping = {
         "files": [
             "removed.mp4"], "desc":
             "Banned from Reddit"
-    },"idk": {
+    },
+    "idk": {
         "files": ["idk.jpg"],
         "desc": "Tom shrugging"
+    },
     "riley": {
         "files": ["riley.jpg"],
         "desc": "Riley"
