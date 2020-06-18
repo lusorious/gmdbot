@@ -299,6 +299,11 @@ const mapping = {
             "removed.mp4"], "desc":
             "Banned from Reddit"
     },
+    "russian": {
+        "files": [
+         "russian.png"], "desc":
+         "Someone says blyat"
+    },
     "idk": {
         "files": ["idk.jpg"],
         "desc": "Tom shrugging"
