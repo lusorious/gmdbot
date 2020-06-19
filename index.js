@@ -6,7 +6,7 @@ const map = require('./newmap')
 const mapping = map.mapping;
 
 
-bot.login('NjgwNTI1NjY3NTkwNDcxNzQ5.XuBonw.4NjIfz76OljwhSO996fPZoLK8F4');
+bot.login('token');
 bot.on('message', msg => {
     var msgContent = msg.content;
     var usrCmd;

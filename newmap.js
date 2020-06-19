@@ -448,6 +448,10 @@ const mapping = {
     "idk": {
         "files": ["idk.jpg"],
         "desc": "Tom shrugging"
+    }, 
+    "verygay" : {
+        "files": ["verygay.mp4"],
+        "desc": "Sounds very gay"
     }
 }
 
