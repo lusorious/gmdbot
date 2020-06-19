@@ -142,6 +142,10 @@ const mapping = {
         "files": ["freedom.mov"],
         "desc": "Jimmy reacts to brexit"
     },
+    "frankly": {
+        "files": ["frankly.webm"],
+        "desc": "Gavin yells frankly"
+    },
     "fuckyou": {
         "files": ["fuckyou.webm"],
         "desc": "Hey, fuck you"
