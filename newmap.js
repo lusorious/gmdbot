@@ -158,6 +158,10 @@ const mapping = {
         "files": ["fuckyou.webm"],
         "desc": "Hey, fuck you"
     },
+    "headin": {
+        "files": ["headin.gif", "headin2.gif"],
+        "desc": "Head In"
+    },
     "ifeltgay": {
         "files": ["feltgay.mp4"],
         "desc": "I felt ugly, I felt gay"
