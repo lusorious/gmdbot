@@ -82,6 +82,10 @@ const mapping = {
         "files": ["china.mov"],
         "desc": "Don't trust China!"
     },
+    "clap": {
+        "files": ["clap.png"],
+        "desc": "They'll clap"
+    },
     "cmon": {
         "files": ["cmon.png"],
         "desc": "c’mon, do something -> GMD"
