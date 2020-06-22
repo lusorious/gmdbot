@@ -138,6 +138,10 @@ const mapping = {
         "command": "faq",
         "desc": "Display the FAQ"
     },
+    "forreal": {
+        "files": ["bitch.mov"],
+        "desc": "Bitcn, are you for real?"
+    },
     "freedom": {
         "files": ["freedom.mov"],
         "desc": "Jimmy reacts to brexit"
@@ -405,7 +409,7 @@ const mapping = {
         "desc": "Talking Heads/Trump mashup"
     },
     "true": {
-        "files": ["thatstrue.mp4"],
+        "files": ["thatstrue.gif"],
         "desc": "That's true"
     },
     "trump": {
