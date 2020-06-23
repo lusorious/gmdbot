@@ -111,7 +111,15 @@ const mapping = {
         "desc": "MichiganMan’s sad, stupid dog"
     },
     "doad": {
-        "files": ["doad1.mov", "doad2.mp4", "doad3.png"],
+        "files": ["doad1.mov"],
+        "desc": "I feel like I'm a doad"
+    },
+    "doad2": {
+        "files": ["doad2.mp4"],
+        "desc": "I feel like I'm a doad"
+    },
+    "doad3": {
+        "files": ["doad3.png"],
         "desc": "I feel like I'm a doad"
     },
     "doanything": {
